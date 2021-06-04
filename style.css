@@ -39,3 +39,9 @@ ol{
 .content-header-2{
 	color: green;
 }
+
+tr {
+	vertical-align:top;
+	font-family:Nimbus Mono PS;
+	font-size:20px;
+}
