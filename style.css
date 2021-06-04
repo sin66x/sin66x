@@ -1,0 +1,41 @@
+html {
+	background:black;
+	color:white;
+	font-family:Nimbus Mono PS;
+	font-size:20px;
+}
+
+body {
+	margin:10px;
+}
+
+a {
+	color:blue;
+	text-decoration: none;
+}
+
+.fcs {
+	color:blue;
+	background: white;
+	
+}
+
+ol{
+	font-weight:bold;
+}
+.content {
+	border:1px solid white;
+	height:100%;
+	overflow-y:scroll;
+}
+
+.text-content {
+	margin:20px;
+}
+
+.content-header{
+	color: lime;
+}
+.content-header-2{
+	color: green;
+}
