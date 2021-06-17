@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Nimbus Mono PS";
+  src: url(files/NimbusMonoPS-Regular.otf);
+}
+
 html {
 	background:black;
 	color:white;
